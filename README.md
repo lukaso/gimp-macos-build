@@ -1,3 +1,5 @@
+TEST!
+
 # Build GIMP/macOS inside CircleCI
 
 This repository contains files related to GIMP/macOS build using CircleCI.
